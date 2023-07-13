@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070086349947",
+    "project_id": "mvp-app-fdad4",
+    "storage_bucket": "mvp-app-fdad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070086349947:android:038b0e43425c4d1f0aaede",
+        "android_client_info": {
+          "package_name": "com.example.fantasyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070086349947-26kqf2o74jgekee4k9p3laktvc9de5o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1bzHsTF3Ldj2l3iyjRU8fPlWCoidMykA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070086349947-26kqf2o74jgekee4k9p3laktvc9de5o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
